@@ -1,6 +1,7 @@
 # 🍫 Chocolate Sales Analysis Dashboard
 
-<img width="1437" height="795" alt="image" src="https://github.com/user-attachments/assets/c15bb287-b887-4012-9edc-1a6ee5fd4e16" />
+<img width="1425" height="795" alt="image" src="https://github.com/user-attachments/assets/212fa064-185e-493b-a233-b2d664599993" />
+
 
 ## 📊 Project Overview
 
